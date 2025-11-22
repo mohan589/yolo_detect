@@ -1,0 +1,13 @@
+path: datasets
+train: images/train
+val: images/val
+
+names:
+  0: Banana_chips
+  1: Bingo_Mad Angles_25gm
+  2: Bingo_potato chips_5gm
+  3: Lays_Indian magic masala_15gm
+  4: lays_salted
+  5: lays-spanish-tomato
+  
+
