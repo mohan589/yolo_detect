@@ -10,3 +10,10 @@ yolo detect train \
   imgsz=640 \
   batch=16 \
   device=0
+
+
+Running Commands
+
+uv run train.py
+
+uv run inference.py
